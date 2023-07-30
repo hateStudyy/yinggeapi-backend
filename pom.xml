@@ -118,6 +118,12 @@
             <artifactId>lombok</artifactId>
             <optional>true</optional>
         </dependency>
+        <!--mySDK-->
+        <dependency>
+            <groupId>com.yingge</groupId>
+            <artifactId>yinggeapi-client-sdk</artifactId>
+            <version>0.0.1</version>
+        </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>

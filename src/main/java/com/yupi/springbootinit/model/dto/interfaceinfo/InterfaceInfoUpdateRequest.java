@@ -29,6 +29,10 @@ public class InterfaceInfoUpdateRequest implements Serializable {
      * 描述
      */
     private String description;
+    /**
+     * 请求参数
+     */
+    private String requestParams;
 
     /**
      * 接口地址

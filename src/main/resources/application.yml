@@ -90,3 +90,7 @@ cos:
     secretKey: xxx
     region: xxx
     bucket: xxx
+yingge:
+  client:
+    access-key: yingge
+    secret-key: abcdefgh
