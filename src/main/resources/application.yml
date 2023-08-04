@@ -94,3 +94,9 @@ yingge:
   client:
     access-key: yingge
     secret-key: abcdefgh
+dubbo:
+  application:
+    name: dubbo-provider
+  registry:
+    id: nacos-registry
+    address: nacos://localhost:8848
